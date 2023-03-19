@@ -1,0 +1,9 @@
+2023-03-19 15:02:25.150 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=111 (valid until 2023-03-20 12:37:00)
+2023-03-19 15:02:25.152 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome111=111.0.5563.64 (valid until 2023-03-20 12:37:00)
+2023-03-19 15:02:25.153 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Google Chrome 111 is installed in your machine)
+2023-03-19 15:02:25.160 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 111.0.5563.64 found in cache
+2023-03-19 15:02:25.160 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\vladi\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-19 15:02:27.691 [main] INFO  MainPageTest - Add to Cart test
+2023-03-19 15:02:28.811 [main] INFO  Pages.BasePage - Check element with xpath  exists: //h1[text()='Your cart']
+2023-03-19 15:02:28.876 [main] INFO  MainPageTest - Change Books quantity to 6
+2023-03-19 15:02:28.933 [main] INFO  MainPageTest - Verify the amount of the book is changed to 6 and the price is updated
